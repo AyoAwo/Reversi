@@ -58,6 +58,5 @@ A summary of the original brief, which outlines the requirements for a Reversi/O
         - Validating and capturing opponent's pieces in a straight line.
 
 8. Turn Management:
-    - White player plays first.
     - Players take turns to play.
     - Active player should be indicated in the GUI.
