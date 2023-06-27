@@ -16,11 +16,8 @@ A summary of the original brief, which outlines the requirements for a Reversi/O
 
 1. General Requirements:
     - Create a Java program for a Reversi/Othello game.
-    - Use provided classes for the controller and GUI to separate their functionality.
-    - Implement `GUIView` class as a subclass of `IView` for GUI and `ReversiController` class as a subclass of `IController` for the controller.
-    - The program should allow choosing different combinations of controllers and views.
+    - Use seperate classes for the controller and GUI to separate their functionality.
     - Use standard swing/awt GUI classes, provided classes, and custom classes.
-    - Avoid accessing the file system or network.
 
 2. Program Requirements:
     - Implement GUI and controller for playing Reversi/Othello.
